@@ -20,4 +20,4 @@ Available files: `starship-midnight.toml`, `starship-morning.toml`, `starship-su
 
 ## Created by
 
-[Micheal Andreuzza](https://github.com/michael-andreuzza)
+By [Micheal Andreuzza](https://michaelandreuzza.com/) at [Lexington Themes](https://lexingtonthemes.com/)
