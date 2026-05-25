@@ -1,0 +1,28 @@
+# Serendipity Serendipity Midnight
+palette = "midnight"
+
+[palettes.midnight]
+background = "#151726"
+current_line = "#1c1e2d"
+foreground = "#dee0ef"
+comment = "#6b6d7c"
+cyan = "#ee8679"
+green = "#94b8ff"
+orange = "#f8d2c9"
+pink = "#f8d2c9"
+purple = "#a78bfa"
+red = "#ee8679"
+yellow = "#5ba2d0"
+
+[character]
+success_symbol = "[✔](#5ba2d0)"
+error_symbol = "[✘](#ee8679)"
+
+[directory]
+style = "bold #94b8ff"
+
+[git_branch]
+style = "bold #ee8679"
+
+[git_status]
+style = "bold #f8d2c9"

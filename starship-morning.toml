@@ -1,0 +1,28 @@
+# Serendipity Serendipity Morning
+palette = "morning"
+
+[palettes.morning]
+background = "#f6f7fb"
+current_line = "#eaebee"
+foreground = "#3f4363"
+comment = "#6d7296"
+cyan = "#c25a4d"
+green = "#6288d8"
+orange = "#e58678"
+pink = "#e58678"
+purple = "#785fd0"
+red = "#c25a4d"
+yellow = "#2f7aab"
+
+[character]
+success_symbol = "[✔](#2f7aab)"
+error_symbol = "[✘](#c25a4d)"
+
+[directory]
+style = "bold #6288d8"
+
+[git_branch]
+style = "bold #c25a4d"
+
+[git_status]
+style = "bold #e58678"

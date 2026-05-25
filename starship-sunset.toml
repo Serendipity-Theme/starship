@@ -1,0 +1,28 @@
+# Serendipity Serendipity Sunset
+palette = "sunset"
+
+[palettes.sunset]
+background = "#202231"
+current_line = "#272938"
+foreground = "#dee0ef"
+comment = "#8d8f9e"
+cyan = "#d1918f"
+green = "#a0b6e8"
+orange = "#d6b4b4"
+pink = "#d6b4b4"
+purple = "#a392dc"
+red = "#d1918f"
+yellow = "#709bbd"
+
+[character]
+success_symbol = "[✔](#709bbd)"
+error_symbol = "[✘](#d1918f)"
+
+[directory]
+style = "bold #a0b6e8"
+
+[git_branch]
+style = "bold #d1918f"
+
+[git_status]
+style = "bold #d6b4b4"
